@@ -12,7 +12,7 @@
  
 ### Main skills:
 ![C](https://img.shields.io/badge/-c-9370DB?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=4B0082)
-![Python](https://img.shields.io/badge/-Python-9370DB?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=4B0082)
+![PHP](https://img.shields.io/badge/-Python-9370DB?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=4B0082)
 ![HTML](https://img.shields.io/badge/-HTML-9370DB?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=4B0082)
 ![CSS](https://img.shields.io/badge/-CSS-9370DB?style=for-the-badge&logo=css3&logoColor=0D1117&labelColor=4B0082)
 
