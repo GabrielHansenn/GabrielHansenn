@@ -26,10 +26,9 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-9370DB?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=4B0082)
   
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-9370DB?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=4B0082)
-![JavaScript](https://img.shields.io/badge/-JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=0D1117&labelColor=4B0082)
-![Node](https://img.shields.io/badge/Node.js-9370DB?style=for-the-badge&logo=node.js&logoColor=black&labelColor=4B0082)
-![React Native](https://img.shields.io/badge/React_Native-9370DB?style=for-the-badge&logo=react&logoColor=black&labelColor=4B0082)
+![PHP](https://img.shields.io/badge/-Php-9370DB?style=for-the-badge&logo=php&logoColor=0D1117&labelColor=4B0082)
+![Laravel](https://img.shields.io/badge/-Laravel-9370DB?style=for-the-badge&logo=apache-laravel-ide&logoColor=0D1117&labelColor=4B0082)
+![JS](https://img.shields.io/badge/-JS-9370DB?style=for-the-badge&logo=JAVASCRIPT&logoColor=0D1117&labelColor=4B0082)
 
 
 
