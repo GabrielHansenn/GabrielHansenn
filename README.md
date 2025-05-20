@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/-Php-9370DB?style=for-the-badge&logo=php&logoColor=0D1117&labelColor=4B0082)
 ![HTML](https://img.shields.io/badge/-HTML-9370DB?style=for-the-badge&logo=html5&logoColor=0D1117&labelColor=4B0082)
 ![CSS](https://img.shields.io/badge/-CSS-9370DB?style=for-the-badge&logo=css3&logoColor=0D1117&labelColor=4B0082)
-![JS](https://img.shields.io/badge/-JAVASCRIPT-9370DB?style=for-the-badge&logo=JAVASCRIPT&logoColor=0D1117&labelColor=4B0082)
+![JS](https://img.shields.io/badge/-JS-9370DB?style=for-the-badge&logo=JAVASCRIPT&logoColor=0D1117&labelColor=4B0082)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-9370DB?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=4B0082)
