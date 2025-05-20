@@ -17,11 +17,11 @@
 ![JS](https://img.shields.io/badge/-JS-9370DB?style=for-the-badge&logo=JAVASCRIPT&logoColor=0D1117&labelColor=4B0082)
 
 ### Tools:
+![GitHub](https://img.shields.io/badge/-GitHub-9370DB?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=4B0082)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-9370DB?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=4B0082)
 ![React](https://img.shields.io/badge/-React-9370DB?style=for-the-badge&logo=apache-react-ide&logoColor=0D1117&labelColor=4B0082)
 ![Laravel](https://img.shields.io/badge/-Laravel-9370DB?style=for-the-badge&logo=apache-laravel-ide&logoColor=0D1117&labelColor=4B0082)
 ![Node.js](https://img.shields.io/badge/-Node.js-9370DB?style=for-the-badge&logo=apache-Node.js-ide&logoColor=0D1117&labelColor=4B0082)
-![GitHub](https://img.shields.io/badge/-GitHub-9370DB?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=4B0082)
 ![Windows](https://img.shields.io/badge/-Windows-9370DB?style=for-the-badge&logo=windows&logoColor=0D1117&labelColor=4B0082)
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-9370DB?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=4B0082)
   
