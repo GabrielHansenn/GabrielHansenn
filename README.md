@@ -4,7 +4,7 @@
 Um pouco sobre mim:
 
 - 📖 Cursando o 6º período de Engenharia de Software na Campo Real
-- 📲 Estudando no momento PHP, Laravel
+- 📲 Estudando no momento Flutter, dart
 - 🔍 Procurando por vagas de trabalho como desenvolvedor
 - 📄 Sempre buscando melhorar
 
