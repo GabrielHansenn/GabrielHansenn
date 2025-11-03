@@ -8,9 +8,6 @@ Um pouco sobre mim:
 - 🔍 Procurando por vagas de trabalho como desenvolvedor
 - 📄 Sempre buscando melhorar
 
-
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielhansenn&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhansenn&layout=compact&theme=dark)
 
 
