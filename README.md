@@ -3,9 +3,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 Um pouco sobre mim:
 
-- 📖 Cursando o 6º período de Engenharia de Software na Campo Real
-- 📲 Estudando no momento Flutter, dart
-- 🔍 Procurando por vagas de trabalho como desenvolvedor
+- 📖 Cursando o 7º período de Engenharia de Software na Campo Real
+- 📲 Trabalhando como WordPress Developer
 - 📄 Sempre buscando melhorar
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhansenn&layout=compact&theme=dark)
