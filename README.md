@@ -3,11 +3,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 Um pouco sobre mim:
 
-- 📖 Cursando o 7º período de Engenharia de Software na Campo Real
+- 📖 Cursando o 8º período de Engenharia de Software na Campo Real
 - 📲 Trabalhando como WordPress Developer
 - 📄 Sempre buscando melhorar
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhansenn&layout=compact&theme=dark)
 
 
 <div style="display: inline_block"><br>
