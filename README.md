@@ -71,10 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=GabrielHansenn&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHansenn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-</p>
-
 ---
 
 <!-- Animated footer -->
