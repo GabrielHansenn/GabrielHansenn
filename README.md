@@ -12,7 +12,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas&color=2575fc&style=flat" alt="Visitas" />
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -64,16 +63,16 @@
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielHansenn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHansenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GabrielHansenn&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielHansenn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
